@@ -5,11 +5,12 @@
 
 
 ### 1. 機械学習分類マップ
-![](./images/ML_map.png)
+<img src="./images/ML_map.png" width="600px">
 
 
 ### 2. scikit-learnのアルゴリズムチートシート
-![](./images/sklearn_cheatsheet_ogawa.png)
+<img src="./images/sklearn_cheatsheet_ogawa.png" width="600px">
+
 
 ### 3. 目次
 #### 教師あり学習
