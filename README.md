@@ -12,13 +12,15 @@
 <img src="./images/sklearn_cheatsheet_ogawa.png" width="600px">
 
 
-### 3. 目次
+### 3. 実装コード
 #### 教師あり学習
 ##### 分類
--ロジスティック回帰[（実装コード）](https://github.com/YutaroOgawa/scikit-learn_tutorial_SoftwareDesign/blob/master/program/logistic_regression_SD1804.ipynb)
+- ロジスティック回帰[（実装コード）](https://github.com/YutaroOgawa/scikit-learn_tutorial_SoftwareDesign/blob/master/program/logistic_regression_SD1804.ipynb)
 
-掲載[（SD_18年4月号）](http://gihyo.jp/magazine/SD/archive/2018/201804)：特集「機械学習の始め方」：第4章 本格的にPythonライブラリを使おう scikit-learn入門と機械学習の勉強方法
+  掲載[（SD_18年4月号）](http://gihyo.jp/magazine/SD/archive/2018/201804)：特集「機械学習の始め方」：第4章 本格的にPythonライブラリを使おう scikit-learn入門と機械学習の勉強方法
 
+##### 回帰
+- 線形回帰と正則化
 
 ### 4. 著者紹介
 - 小川雄太郎
