@@ -22,7 +22,7 @@
 ##### 回帰
 - 線形回帰と正則化[（実装コード）](https://github.com/YutaroOgawa/scikit-learn_tutorial_SoftwareDesign/blob/master/program/linear_model_SD1805.ipynb)
 
-　掲載[（SD_18年5月号）](http://gihyo.jp/magazine/SD/archive/2018/201805)：連載　scikit-learnで学ぶ機械学習アルゴリズム
+  掲載[（SD_18年5月号）](http://gihyo.jp/magazine/SD/archive/2018/201805)：連載　scikit-learnで学ぶ機械学習アルゴリズム
 
 
 ### 4. 著者紹介
