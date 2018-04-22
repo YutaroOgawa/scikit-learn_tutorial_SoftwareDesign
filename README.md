@@ -20,7 +20,10 @@
   掲載[（SD_18年4月号）](http://gihyo.jp/magazine/SD/archive/2018/201804)：特集「機械学習の始め方」：第4章 本格的にPythonライブラリを使おう scikit-learn入門と機械学習の勉強方法
 
 ##### 回帰
-- 線形回帰と正則化
+- 線形回帰と正則化[（実装コード）](https://github.com/YutaroOgawa/scikit-learn_tutorial_SoftwareDesign/blob/master/program/linear_model_SD1805.ipynb)
+
+　掲載[（SD_18年5月号）](http://gihyo.jp/magazine/SD/archive/2018/201805)：連載　scikit-learnで学ぶ機械学習アルゴリズム
+
 
 ### 4. 著者紹介
 - 小川雄太郎
