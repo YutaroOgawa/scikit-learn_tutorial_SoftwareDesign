@@ -24,6 +24,12 @@
 
   掲載[（SD_18年5月号）](http://gihyo.jp/magazine/SD/archive/2018/201805)：連載　scikit-learnで学ぶ機械学習アルゴリズム
 
+#### 教師なし学習
+##### 次元圧縮
+- 主成分分析[（実装コード）](https://github.com/YutaroOgawa/scikit-learn_tutorial_SoftwareDesign/blob/master/program/PCA_SD1806.ipynb)
+
+  掲載[（SD_18年6月号）](http://gihyo.jp/magazine/SD/archive/2018/201806)：連載　scikit-learnで学ぶ機械学習アルゴリズム
+
 
 ### 4. 著者紹介
 - 小川雄太郎
