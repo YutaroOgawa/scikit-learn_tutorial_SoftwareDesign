@@ -16,16 +16,24 @@
 #### 教師あり学習
 ##### 分類
 - ロジスティック回帰[（実装コード）](https://github.com/YutaroOgawa/scikit-learn_tutorial_SoftwareDesign/blob/master/program/logistic_regression_SD1804.ipynb)
-  
+- 決定木とランダムフォレスト[（実装コード）](https://github.com/YutaroOgawa/scikit-learn_tutorial_SoftwareDesign/blob/master/program/TreeModel_SD1809.ipynb)
+- サポートベクトルマシンによる分類[（実装コード）](https://github.com/YutaroOgawa/scikit-learn_tutorial_SoftwareDesign/blob/master/program/svc_SD1811.ipynb)
+
+
 ##### 回帰
 - 線形回帰と正則化[（実装コード）](https://github.com/YutaroOgawa/scikit-learn_tutorial_SoftwareDesign/blob/master/program/linear_model_SD1805.ipynb)
 
 #### 教師なし学習
 ##### クラスタリング
 - KMeans[（実装コード）](https://github.com/YutaroOgawa/scikit-learn_tutorial_SoftwareDesign/blob/master/program/KMeans_SD1807.ipynb)
+- GMM:Gaussian Mixture Model[（実装コード）](https://github.com/YutaroOgawa/scikit-learn_tutorial_SoftwareDesign/blob/master/program/GMM_SD1810.ipynb)
+
 
 ##### 次元圧縮
 - 主成分分析[（実装コード）](https://github.com/YutaroOgawa/scikit-learn_tutorial_SoftwareDesign/blob/master/program/PCA_SD1806.ipynb)
+
+#### その他
+- 機械学習システムの構築フローとモデルの性能評価[（実装コード）](https://github.com/YutaroOgawa/scikit-learn_tutorial_SoftwareDesign/blob/master/program/modeling_flow_iris_SD1808.ipynb)
 
 
 
